@@ -1,2 +1,2 @@
 adding text to test.txt
-
+adding line 2 to test.txt
